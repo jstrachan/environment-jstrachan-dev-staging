@@ -1,6 +1,8 @@
-defaultNamespace: jx
 apps:
 - name: stable/nginx-ingressnginx-ingress
 - name: jenkins-x/jxboot-helmfile-resources
 - name: jenkins-x/lighthouse
 - name: jenkins-x/tekton
+- name: nodey410
+  version: 0.0.7
+defaultNamespace: jx
